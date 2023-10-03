@@ -1,8 +1,7 @@
 # Шарипова Усния Исметовна
 
-<head>
-<body>
-<img src="./" class="img">
+![foto](https://drive.google.com/drive/my-drive)
+
 
 
 
