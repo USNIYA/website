@@ -1,6 +1,9 @@
 # Шарипова Усния Исметовна
 
-![фото](https://drive.google.com/file/d/1VI85u99aVj7ewjc3R4fm5JVnY0lcvgNr/view?usp=drive_link)
+<head>
+<body>
+<img src="./" class="img">
+
 
 
 
